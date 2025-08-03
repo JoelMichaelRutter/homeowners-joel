@@ -1,7 +1,9 @@
 # Homewowners Tech Exercise
 At first glance, I was really confident, then I started looking at the discrepancies in the data and was 
 a little more tricky than had first thought. Makes life much easier when you have more control over the data you are putting into the app 🤣
-I'd make some improvements if i had more time, will leave my thoughts below.
+I'd make some improvements if I had more time, will leave my thoughts below.
+
+Wrote a test to cover a cover some of the different circumstances in the service doing the heavy lifting, would write feature test on the controller also but ran out of time.
 
 ### Improvements I would make
 * **Allow for extra columns** - Has scope to grow so would want to be able to handle more columns for data
